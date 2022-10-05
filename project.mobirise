@@ -1,0 +1,318 @@
+{
+  "settings": {
+    "name": "Shity.site",
+    "currentPage": "Shity.site.html",
+    "theme": {
+      "name": "mobirise5",
+      "title": "Mobirise 5",
+      "styling": {
+        "primaryColor": "#4479d9",
+        "secondaryColor": "#ff6666",
+        "successColor": "#40b0bf",
+        "infoColor": "#4479d9",
+        "warningColor": "#FFE161",
+        "dangerColor": "#ff9966",
+        "mainFont": "Jost",
+        "display1Font": "Jost",
+        "display1Size": 4.6,
+        "display2Font": "Jost",
+        "display2Size": 3,
+        "display5Font": "Jost",
+        "display5Size": 2,
+        "display7Font": "Jost",
+        "display7Size": 1.2,
+        "display4Font": "Jost",
+        "display4Size": 1.1,
+        "isRoundedButtons": false,
+        "isGhostButtonBorder": false,
+        "underlinedLinks": false,
+        "isAnimatedOnScroll": false,
+        "isScrollToTopButton": false
+      },
+      "additionalSetColors": []
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "5.5.2",
+    "siteFonts": [
+      {
+        "css": "'Jost', sans-serif",
+        "name": "Jost",
+        "url": "https://fonts.googleapis.com/css?family=Jost:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i"
+      }
+    ],
+    "uniqCompNum": 7,
+    "versionPublish": "5.5.2",
+    "imageResize": true,
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/shity.site-128x128.png",
+    "robotsSwitcher": true,
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
+    "witsec-mailform-to": "vlogkanaal5@gmail.com",
+    "witsec-mailform-to-alt": "",
+    "witsec-mailform-from": "vlogkanaal5@gmail.com",
+    "witsec-mailform-from-them": false,
+    "witsec-mailform-from-them-replyto": false,
+    "witsec-mailform-from-name": "Your Name",
+    "witsec-mailform-from-name-them": false,
+    "witsec-mailform-from-name-them-field": "{name}",
+    "witsec-mailform-template": "Hi,\n\nYou have received a new message from your website.\n\n{formdata}\n\nDate: {date}\nRemote IP: {ip}\n\n---\nHave a nice day.",
+    "witsec-mailform-autorespond-subjectprefix": "Re:",
+    "witsec-mailform-autorespond-subject": "",
+    "witsec-mailform-autorespond-template": "Hi {name},\n\nThank you for your message. We'll get back to you as soon as we can.\nHere's the information you sent us:\n\n{formdata}\n\n---\nHave a nice day.",
+    "witsec-mailform-recaptcha": false,
+    "witsec-mailform-recaptcha-version": "3",
+    "witsec-mailform-recaptcha-sitekey": "",
+    "witsec-mailform-recaptcha-secretkey": "",
+    "witsec-mailform-recaptcha-score": "0.5",
+    "witsec-mailform-disable-button": false,
+    "witsec-mailform-smtp": false,
+    "witsec-mailform-smtp-debug": false,
+    "witsec-mailform-smtp-host": "",
+    "witsec-mailform-smtp-port": "",
+    "witsec-mailform-smtp-secure": "",
+    "witsec-mailform-smtp-username": "",
+    "witsec-mailform-smtp-password": "",
+    "witsec-mailform-attachments": false,
+    "witsec-mailform-attachments-mimetypes": "application/gzip\napplication/java-archive\napplication/json\napplication/ld+json\napplication/msword\napplication/ogg\napplication/pdf\napplication/rtf\napplication/vnd.amazon.ebook\napplication/vnd.api+json\napplication/vnd.apple.installer+xml\napplication/vnd.mozilla.xul+xml\napplication/vnd.ms-excel\napplication/vnd.ms-fontobject\napplication/vnd.ms-powerpoint\napplication/vnd.oasis.opendocument.presentation\napplication/vnd.oasis.opendocument.spreadsheet\napplication/vnd.oasis.opendocument.text\napplication/vnd.openxmlformats-officedocument.presentationml.presentation\napplication/vnd.openxmlformats-officedocument.spreadsheetml.sheet\napplication/vnd.openxmlformats-officedocument.wordprocessingml.document\napplication/vnd.rar\napplication/vnd.visio\napplication/x-7z-compressed\napplication/x-abiword\napplication/x-bzip\napplication/x-bzip2\napplication/x-freearc\napplication/x-httpd-php\napplication/x-tar\napplication/x-www-form-urlencoded\napplication/xhtml+xml\napplication/xml\napplication/zip\napplication/zstd\naudio/*\nfont/*\nimage/*\nmultipart/form-data\ntext/plain\ntext/calendar\ntext/css\ntext/csv\ntext/rtf\nvideo/*",
+    "witsec-mailform": false,
+    "sitemapSwitcher": false,
+    "siteUrl": false,
+    "sitemapSwitcherAuto": "on",
+    "mbrsiteDomain": "shity.site",
+    "cookiesAlert": false,
+    "gdpr": false,
+    "witsec-white-label": true
+  },
+  "pages": {
+    "Redirecting....html": {
+      "settings": {
+        "title": "Redirecting...",
+        "order": 1
+      },
+      "components": [
+        {
+          "alias": false,
+          "_styles": {},
+          "_name": "header4",
+          "_sourceTheme": "mobirise5",
+          "_customHTML": "<!DOCTYPE html>\n<html>\n<head>\n\t<meta charset=\"utf-8\">\n\t<title>Redirecting...</title>\n\t[JS_CODE_0]\n</head>\n<body>\n</body>\n</html>",
+          "_cid": "t9LnzgWHgW",
+          "_anchor": "header4-5",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [
+            "<script type=\"text/javascript\">\n\t\t/*\n\t\tThis file randomly redirects a user to one of the URLs in a list. It is built\n\t\twith the intent of randomization in a controlled experiment.\n\t\tFor example, create three Google Docs forms (or equivalent) and add their URLs\n\t\tto the list below. That's it!\n\t\tThe user is then automatically and randomly assigned to one of the URLs when\n\t\tthe user visits this file. If the user decides to close and reopen the browser,\n\t\tthe user is still redirected to the same URL since a cookie is saved in the\n\t\tuser's browser.\n\t\t*/\n\n\t\t// List of URLs (two or more) for the experimental treatment and control groups.\n\t\tvar RedirectURLs = {\n\t\t\t\"urls\" : [\n\t\t\t\t{ \"url\" : \"https://backrooms.site\" },\n\t\t\t\t{ \"url\" : \"https://ishettijdvoorbier.com\" }\n\t\t\t]\n\t\t}\n\n\t\t// Count the number of URLs in list.\n\t\tvar Groups = RedirectURLs.urls.length;\n\n\t\t// Randomize number and get the corresponding index for the URL in list.\n\t\tvar gotoUrl = RedirectURLs.urls[GetRandomNumber(Groups)].url\n\n\t\t// Perform redirection.\n\t\tif (window.location.search == \"?debug\") {\n\t\t\t// Debug mode: If user supplies a ?debug querystring,\n\t\t\t// then only show the redirect URL, but don't actually redirect.\n\t\t\tdocument.write(\"Redirect URL: \" + gotoUrl);\n\t\t} else {\n\t\t\t// Redirect the user to the new URL.\n\t\t\tdocument.location = gotoUrl;\n\t\t}\n\n\t\t// Perform randomization and save it to a cookie.\n\t\tfunction GetRandomNumber(Groups) {\n\t\t\t// Has cookie been set?\n\t\t\tvar rndIndex = null;\n\t\t\tif (GetCookie() != \"\") {\n\t\t\t\t// Yes, get randomization from cookie.\n\t\t\t\trndIndex = GetCookie()\n\t\t\t} else {\n\t\t\t\t// No, set random value to cookie.\n\t\t\t\trndIndex = Math.floor((Math.random() * Groups));\n\t\t\t\tSetCookie(rndIndex, 0) // Set cookie for 30 days.\n\t\t\t}\n\t\t\treturn rndIndex\n\t\t}\n\n\t\t// Set cookie with randomization value.\n\t\tfunction SetCookie(CookieValue, DaysUntilExpire) {\n\t\t\tvar d = new Date();\n\t\t\td.setTime(d.getTime() + (DaysUntilExpire * 0 * 0 * 0 * 0));\n\t\t\tdocument.cookie = \"rnd=\" + CookieValue + \";expires=\" + d.toUTCString();\n\t\t}\n\n\t\t// Get cookie with randomization value. Return empty string if not set.\n\t\tfunction GetCookie() {\n\t\t\tvar ca = document.cookie.split(';');\n\t\t\tfor(var i = 0; i < ca.length; i++) {\n\t\t\t\tvar c = ca[i];\n\t\t\t\twhile (c.charAt(0) == ' ') c = c.substring(1);\n\t\t\t\tif (c.indexOf(\"rnd=\") == 0) return c.substring(4, c.length);\n\t\t\t}\n\t\t\treturn \"\";\n\t\t}\n\t</script>"
+          ],
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        }
+      ]
+    },
+    "Shity.site.html": {
+      "settings": {
+        "main": true,
+        "title": "Shity.site",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "alias": false,
+          "_styles": {
+            "& when not (@fullScreen)": {
+              "padding-top": "(@paddingTop * 1rem)",
+              "padding-bottom": "(@paddingBottom * 1rem)"
+            },
+            "& when (@bg-type = \"color\")": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = \"image\")": {
+              "background-image": "url(@bg-value)"
+            },
+            ".card-wrapper": {
+              "background": "@wrapBgColor",
+              "border-radius": "4px",
+              "@media (max-width: 767px)": {
+                "padding": "1rem"
+              },
+              "@media (min-width: 768px) and (max-width: 991px)": {
+                "padding": "2rem"
+              },
+              "@media (min-width: 992px)": {
+                "padding": "4rem"
+              }
+            },
+            ".card-title": {
+              "color": "#fafafa"
+            },
+            ".mbr-text, .mbr-section-btn": {
+              "color": "#fafafa"
+            }
+          },
+          "_name": "header12",
+          "_sourceTheme": "mobirise5",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"header12\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{\n    'mbr-fullscreen': fullScreen,\n    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"5\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"5\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Buttons\" name=\"showButtons\" checked>\n        <input type=\"color\" title=\"Wrap Bg\" name=\"wrapBgColor\" value=\"#232323\">\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Image\" value=\"../_images/background8.jpg\" parallax>\n            <input type=\"color\" title=\"Color\" value=\"#ffffff\" selected>\n            <input type=\"video\" title=\"Video\" value=\"https://vimeo.com/428046504\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.3\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"card col-12 col-md-12 col-lg-9\">\n                <div class=\"card-wrapper\">\n                    <div class=\"card-box align-center\">\n                        <h1 class=\"card-title mbr-fonts-style mb-3\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\" data-app-selector=\".card-title\">\n                            <b>Shity.site</b></h1>\n                        <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">A site with more shity sites...</p>\n                        <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn mt-3\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-white\" href=\"Redirecting....html\" data-app-placeholder=\"Type Text\" target=\"_blank\">go to a random site</a></div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "t9LjihhiWL",
+          "_anchor": "header12-3",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 1rem)",
+            "padding-bottom": "(@paddingBottom * 1rem)",
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            ".nav-tabs .nav-item.open .nav-link:focus, .nav-tabs .nav-link.active:focus": {
+              "outline": "none"
+            },
+            ".nav-tabs": {
+              "flex-wrap": "wrap",
+              "border-bottom": "1px solid @activeColor"
+            },
+            ".nav-item": {
+              "@media (max-width: 767px)": {
+                "width": "100%",
+                "margin": "0"
+              }
+            },
+            ".nav-tabs .nav-link": {
+              "transition": "all .5s",
+              "border": "none",
+              "border-bottom": "3px solid transparent",
+              "border-radius": "0 !important",
+              "&:not(.active)": {
+                "color": "@tabsColor"
+              }
+            },
+            ".nav-tabs .nav-item": {
+              "margin-right": "1.5rem"
+            },
+            ".nav-link, .nav-link.active": {
+              "padding": "1rem 0",
+              "background-color": "transparent"
+            },
+            ".nav-tabs .nav-link.active": {
+              "color": "@activeColor",
+              "border-bottom": "3px solid @activeColor"
+            },
+            "H4": {
+              "text-align": "center"
+            },
+            "H3": {
+              "text-align": "center",
+              "color": "#232323"
+            }
+          },
+          "_name": "tabs1",
+          "_sourceTheme": "mobirise5",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"tabs content18\" group=\"Content\" data-bg-video=\"{{bg.type == 'video'&&bg.value.url}}\" mbr-class=\"{'mbr-parallax-background':bg.parallax}\" plugins=\"mbr-tabs\">\n\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" name=\"fullWidth\" title=\"Full Width\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"6\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"6\">\n        <input type=\"range\" name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" value=\"8\" step=\"1\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Subtitle\" name=\"showSubtitle\">\n        <header>Tabs</header>\n        <select title=\"Count\" name=\"bootstrapTabs\">\n            <option value=\"1\">1</option>\n            <option value=\"2\" selected>2</option>\n            <option value=\"3\">3</option>\n            <option value=\"4\">4</option>\n            <option value=\"5\">5</option>\n            <option value=\"6\">6</option>\n        </select>\n        <input type=\"color\" name=\"tabsColor\" title=\"Color\" value=\"#232323\">\n        <input type=\"color\" name=\"activeColor\" title=\"Active Color\" value=\"#bbbbbb\">\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Image\" value=\"../_images/background1.jpg\">\n            <input type=\"color\" title=\"Color\" value=\"#ffffff\" selected>\n            <input type=\"video\" title=\"Video\" value=\"https://vimeo.com/428046504\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay&&bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.7\" condition=\"overlay&&bg.type !== 'color'\">\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay&&bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\" mbr-if=\"showTitle || showSubtitle\">\n            <div class=\"col-12 col-md-{{textWidth}}\">\n                <h3 class=\"mbr-section-title mb-0 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\">\n                    <b>Sites</b></h3>\n                <h4 class=\"mbr-section-subtitle mb-0 mt-2 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showSubtitle\">Tabs Subtitle</h4>\n            </div>\n        </div>\n        <div class=\"row justify-content-center mt-4\">\n            <div class=\"col-12 col-md-{{textWidth}}\">\n                <ul class=\"nav nav-tabs mb-4\" role=\"tablist\">\n                    <li mbr-buttons mbr-theme-style=\"display-7\" class=\"nav-item first mbr-fonts-style\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrLink,-mbrBtnRemove,-iconFont\"><a class=\"nav-link mbr-fonts-style show active\" role=\"tab\" data-toggle=\"tab\" data-bs-toggle=\"tab\" href=\"#tabs1-4_tab0\" data-app-placeholder=\"Type Text\" aria-selected=\"true\"><strong>Backrooms.site</strong></a></li>\n                    <li mbr-buttons mbr-theme-style=\"display-7\" class=\"nav-item\" mbr-if=\"bootstrapTabs > 1\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrLink,-mbrBtnRemove,-iconFont\"><a class=\"nav-link mbr-fonts-style active\" role=\"tab\" data-toggle=\"tab\" data-bs-toggle=\"tab\" href=\"#tabs1-4_tab1\" data-app-placeholder=\"Type Text\" aria-selected=\"true\"><strong>Ishettijdvoorbier.com</strong></a></li>\n                    <li mbr-buttons mbr-theme-style=\"display-7\" class=\"nav-item\" mbr-if=\"bootstrapTabs > 2\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrLink,-mbrBtnRemove,-iconFont\"><a class=\"nav-link mbr-fonts-style active\" role=\"tab\" data-toggle=\"tab\" data-bs-toggle=\"tab\" href=\"#tabs1-4_tab2\" data-app-placeholder=\"Type Text\" aria-selected=\"true\">\n                            <strong>Development</strong>\n                        </a></li>\n                    <li mbr-buttons mbr-theme-style=\"display-7\" class=\"nav-item\" mbr-if=\"bootstrapTabs > 3\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrLink,-mbrBtnRemove,-iconFont\"><a class=\"nav-link mbr-fonts-style active\" role=\"tab\" data-toggle=\"tab\" data-bs-toggle=\"tab\" href=\"#tabs1-4_tab3\" data-app-placeholder=\"Type Text\" aria-selected=\"true\">\n                            <strong>Phases</strong>\n                        </a></li>\n                    <li mbr-buttons mbr-theme-style=\"display-7\" class=\"nav-item\" mbr-if=\"bootstrapTabs > 4\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrLink,-mbrBtnRemove,-iconFont\">\n                        <a class=\"nav-link mbr-fonts-style\" role=\"tab\" data-toggle=\"tab\" data-bs-toggle=\"tab\" href=\"#tab5\" data-app-placeholder=\"Type Text\" aria-selected=\"true\">\n                            <b>Design</b>\n                        </a>\n                    </li>\n                    <li mbr-buttons mbr-theme-style=\"display-7\" class=\"nav-item\" mbr-if=\"bootstrapTabs > 5\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrLink,-mbrBtnRemove,-iconFont\">\n                        <a class=\"nav-link mbr-fonts-style\" role=\"tab\" data-toggle=\"tab\" data-bs-toggle=\"tab\" href=\"#tab6\" data-app-placeholder=\"Type Text\" aria-selected=\"true\">\n                            <b>Architecture</b>\n                        </a>\n                    </li>\n                </ul>\n                <div class=\"tab-content\">\n                    <div id=\"tab1\" class=\"tab-pane in active\" role=\"tabpanel\">\n                        <div class=\"row\">\n                            <div class=\"col-md-12\">\n                                <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\">\n                                    Ever heard of the backrooms? No... well let me explain. The Backrooms is an urban legend and creepypasta describing an endless maze of randomly generated office rooms and other environments.&nbsp;It is characterized by the smell of wet carpet, walls with a monochromatic tone of yellow, and buzzing fluorescent lights. Try visiting this site multible times and see what happens...<br><br><a href=\"https://backrooms.site\" class=\"text-info\" target=\"_blank\"><i>Checkt it out!</i></a></p>\n                            </div>\n                        </div>\n                    </div>\n                    <div id=\"tab2\" class=\"tab-pane\" role=\"tabpanel\" mbr-if=\"bootstrapTabs > 1\">\n                        <div class=\"row\">\n                            <div class=\"col-md-12\">\n                                <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\">\n                                    Altijd al afgevraagd of het tijd is voor bier? Dat hoef nu niet meer! Check ishettijdvoorbier.com voor erachter te komen<br><br><a href=\"http://ishettijdvoorbier.com\" class=\"text-primary\" target=\"_blank\"><i>Checkt it out!</i></a><br></p>\n                            </div>\n                        </div>\n                    </div>\n                    <div id=\"tab3\" class=\"tab-pane\" role=\"tabpanel\" mbr-if=\"bootstrapTabs > 2\">\n                        <div class=\"row\">\n                            <div class=\"col-md-12\">\n                                <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\">\n                                    Mobirise is an easy and simple free website builder - just drop site elements to\n                                    your page, add content and style it to look the way you like.\n                                </p>\n                            </div>\n                        </div>\n                    </div>\n                    <div id=\"tab4\" class=\"tab-pane\" role=\"tabpanel\" mbr-if=\"bootstrapTabs > 3\">\n                        <div class=\"row\">\n                            <div class=\"col-md-12\">\n                                <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\">\n                                    Free Website Builder offers a huge collection of 2500+ website blocks, templates and\n                                    themes with thousands flexible options. Combine blocks from different themes to\n                                    create a unique mix.</p>\n                            </div>\n                        </div>\n                    </div>\n                    <div id=\"tab5\" class=\"tab-pane\" role=\"tabpanel\" mbr-if=\"bootstrapTabs > 4\">\n                        <div class=\"row\">\n                            <div class=\"col-md-12\">\n                                <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\">\n                                    Free Website Builder offers a huge collection of 2500+ website blocks, templates and\n                                    themes with thousands flexible options. Combine blocks from different themes to\n                                    create a unique mix.\n                                </p>\n                            </div>\n                        </div>\n                    </div>\n                    <div id=\"tab6\" class=\"tab-pane\" role=\"tabpanel\" mbr-if=\"bootstrapTabs > 5\">\n                        <div class=\"row\">\n                            <div class=\"col-md-12\">\n                                <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\">\n                                    Free Website Builder offers a huge collection of 2500+ website blocks, templates and\n                                    themes with thousands flexible options. Combine blocks from different themes to\n                                    create a unique mix.</p>\n                            </div>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "t9LkemyR4b",
+          "_anchor": "tabs1-4",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 1rem)",
+            "padding-bottom": "(@paddingBottom * 1rem)",
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            ".row-links": {
+              "width": "100%",
+              "justify-content": "center"
+            },
+            ".social-row": {
+              "width": "100%",
+              "justify-content": "center"
+            },
+            ".media-container-row": {
+              "flex-direction": "column",
+              "justify-content": "center",
+              "align-items": "center",
+              ".foot-menu": {
+                "list-style": "none",
+                "display": "flex",
+                "justify-content": "center",
+                "flex-wrap": "wrap",
+                "padding": "0",
+                "margin-bottom": "0",
+                "li": {
+                  "padding": "0 1rem 1rem 1rem",
+                  "p": {
+                    "margin": "0"
+                  }
+                }
+              },
+              ".social-list": {
+                "width": "auto",
+                "padding-left": "0",
+                "margin-bottom": "0",
+                "list-style": "none",
+                "display": "flex",
+                "flex-wrap": "wrap",
+                "justify-content": "flex-end",
+                ".mbr-iconfont-social": {
+                  "font-size": "1.5rem",
+                  "color": "#ffffff"
+                },
+                ".soc-item": {
+                  "margin": "0 .5rem"
+                },
+                "a": {
+                  "margin": "0",
+                  "opacity": ".5",
+                  "transition": ".2s linear",
+                  "&:hover": {
+                    "opacity": "1"
+                  }
+                },
+                "@media (max-width: 767px)": {
+                  "-webkit-justify-content": "center",
+                  "justify-content": "center"
+                }
+              },
+              ".row-copirayt": {
+                "word-break": "break-word",
+                "width": "100%",
+                "p": {
+                  "width": "100%"
+                }
+              }
+            }
+          },
+          "_name": "footer3",
+          "_sourceTheme": "mobirise5",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"footer3\" group=\"Footers\" global once=\"footers\" mbr-class=\"{'mbr-reveal': reveal, 'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <header>Show/Hide</header>\n        <input type=\"range\" inline title=\"Menu Items\" name=\"menuItems\" min=\"0\" max=\"10\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Social Items\" name=\"socialItems\" min=\"0\" max=\"10\" step=\"1\" value=\"0\">\n        <input type=\"checkbox\" title=\"Reveal effect\" name=\"reveal\">\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Image\" value=\"../_images/background8.jpg\">\n            <input type=\"color\" title=\"Color\" value=\"#232323\" selected>\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#232323\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.8\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"media-container-row align-center mbr-white\">\n            <div class=\"row row-links\" mbr-if=\"menuItems > 0\">\n                <ul class=\"foot-menu\" mbr-list mbr-list-grow=\"menuItems\">\n                    <li mbr-text class=\"foot-menu-item mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\"foot-menu-item\">contact@shity.site</li>\n                    <li mbr-text class=\"foot-menu-item mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\"foot-menu-item\">support@shity.site</li>\n                    \n                    \n                    \n                </ul>\n            </div>\n            <div class=\"row social-row\" mbr-if=\"socialItems > 0\">\n                <div mbr-list mbr-list-grow=\"socialItems\" class=\"social-list align-right pb-2\">\n                    <div class=\"soc-item\">\n                        <a href=\"https://twitter.com/mobirise\" target=\"_blank\">\n                            <span mbr-icon class=\"socicon-twitter socicon mbr-iconfont mbr-iconfont-social\"></span>\n                        </a>\n                    </div>\n                    \n                    \n                    \n                    \n                    \n                </div>\n            </div>\n            <div class=\"row row-copirayt\">\n                <p class=\"mbr-text mb-0 mbr-fonts-style mbr-white align-center\" mbr-theme-style=\"display-7\" data-app-selector=\".media-container-row .mbr-text\">\n                    © Firecord, 2022</p>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "t9Lo3IM58Z",
+          "_anchor": "footer3-6",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_protectedParams": [],
+          "_global": true,
+          "_once": "footers",
+          "_params": {}
+        }
+      ]
+    }
+  }
+}
